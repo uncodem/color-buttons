@@ -1,0 +1,32 @@
+body, html {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  #1e8449 ;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+#backgroundo button {
+    width: 7em;
+    height: 7em;
+    margin-left: 5px;
+    padding: 0;
+}
+
+#backgroundo {
+    background-color: rgba(34,34,34,0.75);
+    color: white;
+    width: 100%;
+    border: 1px solid black;
+    font-size: 3vw;
+}
+
+#buttons {
+    display: inline-block;
+}
+
