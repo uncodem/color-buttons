@@ -1,9 +1,10 @@
-const cache_name = "the_button_v1";
+const cache_name = "the_button_v2";
 const assets = [
     "./",
     "./script.js",
     "./index.html",
-    "./style.css"
+    "./style.css",
+    "./app.webmanifest"
 ];
 
 self.addEventListener('install', event => {

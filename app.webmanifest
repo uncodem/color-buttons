@@ -1,0 +1,8 @@
+{
+    "name": "The Button",
+    "short_name": "Buttons",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "3 buttons that change the color",
+    "background-color": "#1e8449"
+}
